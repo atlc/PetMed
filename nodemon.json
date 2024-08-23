@@ -1,7 +1,0 @@
-{
-	"watch": ["src/server", ".env"],
-	"ignore": ["src/**/*.test.ts", "src/client/", "public/"],
-	"ext": "ts,mjs,js,json",
-	"exec": "node ./dist/server.js",
-	"legacyWatch": true
-}
